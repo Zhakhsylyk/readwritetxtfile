@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Read n Write txt file</string>
+    <string name="file_name">File name</string>
+    <string name="file_text">write your text</string>
+    <string name="file_text2">Your Text</string>
+    <string name="save_btn">save</string>
+    <string name="show_btn">show</string>
+</resources>
